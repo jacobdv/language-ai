@@ -1,5 +1,16 @@
 # Language AI
 
+## Outline
+- Build a basic web app to parse user input strings.
+- Build learning model to:
+    - remember the individual words.
+    - evaluate the mood of the input.
+    - recognize and split words into morphemes.
+    - understand general morpheme meaning and/or function.
+    - evaluate 'speech act'.
+- Build model to assemble morphemes based on goal output.
+- Evolve this to coherent language.
+
 ### Shortcuts in Terminal
 ls | Lists files and directories at current location.  
 cd <name_of_path> | Navigates into selected location.  
