@@ -12,6 +12,6 @@ rm -rf <name_of_directory> | Removes directory and all included files.
 ### Git Shortcuts
 git add . | Adds all changed files, including deletions.  
 git add <file_name> | Adds only named files.  
-git commit -m "<message>" | Commits changes with message.  
+git commit -m "<commit_message>" | Commits changes with message.  
 git push | Pushes changes to GitHub.  
 git pull | Pulls changes.  
