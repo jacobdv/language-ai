@@ -2,6 +2,11 @@
 
 ## Outline
 - Build a basic web app to parse user input strings.
+    - takes input.
+    - identifies words.
+    - figures out lexical cat.
+    - uses this info to: (1) find known words (2) learn more about know words.
+    - uses context info to learn and categorize new words.
 - Build learning model to:
     - remember the individual words.
     - evaluate the mood of the input.
